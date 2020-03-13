@@ -4,13 +4,13 @@
     "sourceMap": true,
     "target": "es6",
     "strict": true,
+    "noImplicitThis": true,
     "experimentalDecorators": true,
     "module": "esnext",
     "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
-    "types": [
-      "quasar"
-    ]
+    "types": ["quasar"]
   },
   "exclude": ["node_modules"]
 }

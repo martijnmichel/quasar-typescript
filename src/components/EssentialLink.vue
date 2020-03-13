@@ -21,7 +21,7 @@
   </q-item>
 </template>
 
-<script lang="ts">
+<script lang="ts" lang="ts">
 import Vue from 'vue'
 
 export default Vue.extend({

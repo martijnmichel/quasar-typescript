@@ -8,6 +8,13 @@
     {
       "language": "vue",
       "autoFix": true
+    },
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    {
+      "language": "vue",
+      "autoFix": true
     }
   ]
 }
